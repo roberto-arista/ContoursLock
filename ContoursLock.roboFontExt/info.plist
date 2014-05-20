@@ -33,5 +33,10 @@
 	<real>1400500254.014925</real>
 	<key>version</key>
 	<string>0.2</string>
+	<key>repository</key>
+	<string>thomgb/ContoursLock</string>
+	<key>extensionPath</key>
+	<string>ContoursLock.roboFontExt</string>
+
 </dict>
 </plist>
