@@ -16,7 +16,7 @@
 	<key>developer</key>
 	<string>Thom Janssen</string>
 	<key>developerURL</key>
-	<string>www.geenbitter.nl</string>
+	<string>https://www.geenbitter.nl</string>
 	<key>html</key>
 	<true/>
 	<key>launchAtStartUp</key>
